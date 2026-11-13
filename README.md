@@ -1,6 +1,6 @@
 # Yahasine NAPON
 
-**Designer produit & développeur fullstack** · Fondateur de [FasoTravel](https://fasotravel.app) · Product manager chez WEYANA Finance
+**Designer produit & développeur fullstack** · Fondateur de [FasoTravel](https://fasotravel.app) · Product manager chez WEYANAS Finances
 
 Je conçois et je livre des applications fintech, mobilité et santé pour l'Afrique de l'Ouest, **du Figma jusqu'au code**.
 
@@ -9,7 +9,7 @@ Je conçois et je livre des applications fintech, mobilité et santé pour l'Afr
 
 ---
 
-**Product designer & full-stack developer** · Founder of FasoTravel · Product manager at WEYANA Finance.
+**Product designer & full-stack developer** · Founder of FasoTravel · Product manager at WEYANAS Finances.
 I design and ship fintech, mobility and health apps for West Africa, from Figma to code. → [Portfolio](https://naponyahasine.github.io/)
 
 `Figma` `UI/UX` `Design system` `React` `Next.js` `React Native` `TypeScript` `Java · Spring` `Python` `PostgreSQL`
